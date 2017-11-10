@@ -14,7 +14,7 @@
 			bottom: 50px; /* Set this to the height of the footer */
 			left: 230px; 
 			right: 0;
-			overflow: hidden; 
+			overflow: auto; 
 			background: #fff;
 		}
 				
