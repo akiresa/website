@@ -11,6 +11,7 @@
 
     main {
     	float:right;
+		display: inline-block;
 		width:85%;
 		display: inline-block;
       	position: static;
