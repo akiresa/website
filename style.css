@@ -9,7 +9,7 @@
     }
 
     main {
-		float: left;
+		display: inline-block;
 		width:85%;
       position: static;
      background-color: #96dae2;
@@ -34,7 +34,7 @@
     }
         
     #nav {
-      float:left;
+     display: inline-block;
 	  width:15%;	  
       background: #DAE9BC;    
     }
