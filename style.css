@@ -1,11 +1,11 @@
 
 body {
-	background-color: #718F94;
+	background-color: #96dae2;
  
 	}
 
 nav {
-	background-color: #545775;
+	background-color: #545775 ;
 	}
 
 /*
@@ -32,12 +32,14 @@ h1 {
   overflow-x: hidden;
   overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
   border-right: 1px solid #eee;
+  background-color: #718F94;
+ 
   
 }
 
 .sidebar .nav {
   margin-bottom: 20px;
-  background-color: #BFC8AD;
+  
 }
 
 .sidebar .nav-item {
@@ -69,7 +71,8 @@ h1 {
   position: static;
   bottom: 0;
   width: 100%;
-  height: 60px; /* Set the fixed height of the footer here */
-  line-height: 60px; /* Vertically center the text there */
-  background-color: #f5f5f5;
+  height: 30px; /* Set the fixed height of the footer here */
+  line-height: 30px; /* Vertically center the text there */
+  background-color: #545775;
+  text-align:center;
 }
